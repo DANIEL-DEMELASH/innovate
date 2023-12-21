@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="cf653c34979371100c1af6fce053af1c" sys_domain="global" table="x_1014103_innovate_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-21 09:29:27</sys_created_on>
+            <sys_id>53653c34979371100c1af6fce053af88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1014103_innovate_innovate" sys_domain="global" view="Default view">cf653c34979371100c1af6fce053af1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-21 09:29:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1014103_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-21 09:29:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf653c34979371100c1af6fce053af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1014103_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_1014103_innovate">e80074fc975371100c1af6fce053afda</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">e80074fc975371100c1af6fce053afda</sys_scope>
+            <sys_update_name>sys_ui_section_cf653c34979371100c1af6fce053af1c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-21 09:29:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate">e80074fc975371100c1af6fce053afda</application>
+        <file_path/>
+        <instance_id>8e6880bbdb26b594199b172913961918</instance_id>
+        <instance_name>dev221968</instance_name>
+        <name>sys_ui_section_cf653c34979371100c1af6fce053af1c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="cf653c34979371100c1af6fce053af1c" sys_domain="global" table="x_1014103_innovate_innovate" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 09:29:27</sys_created_on><sys_id>53653c34979371100c1af6fce053af88</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1014103_innovate_innovate" sys_domain="global" view="Default view">cf653c34979371100c1af6fce053af1c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 09:29:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1014103_innovate_innovate</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 09:29:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cf653c34979371100c1af6fce053af1c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1014103_innovate_innovate</sys_name><sys_overrides/><sys_package display_value="Innovate" source="x_1014103_innovate">e80074fc975371100c1af6fce053afda</sys_package><sys_policy/><sys_scope display_value="Innovate">e80074fc975371100c1af6fce053afda</sys_scope><sys_update_name>sys_ui_section_cf653c34979371100c1af6fce053af1c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 09:29:26</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1984533853</payload_hash>
+        <record_name>Innovate</record_name>
+        <reverted_from/>
+        <source>2c0074fc975371100c1af6fce053afdc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 09:29:27</sys_created_on>
+        <sys_id>df653c34979371100c1af6fce053af89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8bb55a130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 09:29:27</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>57653c34ca9371100bca776681b70689</update_guid>
+        <update_guid_history>57653c34ca9371100bca776681b70689:-1984533853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 09:30:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>de8c7e30f2c24a88b448bbe82c5a4240</sys_id>
+        <sys_metadata>cf653c34979371100c1af6fce053af1c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Innovate" source="x_1014103_innovate">e80074fc975371100c1af6fce053afda</sys_package>
+        <sys_parent display_value="Innovate">4f71fc30979371100c1af6fce053af3b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">e80074fc975371100c1af6fce053afda</sys_scope>
+        <sys_scope_delete display_value="">09d5bad152e5472680915120dbe6d5a4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cf653c34979371100c1af6fce053af1c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cf653c34979371100c1af6fce053af1c">df653c34979371100c1af6fce053af89</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 09:30:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
